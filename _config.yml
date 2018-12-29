@@ -18,7 +18,7 @@ sidebar-avatar: https://ws2.sinaimg.cn/large/006tNbRwly1fymh1e4xz0j309y09xq3j.jp
 
 # SNS settings
 RSS: false
-# weibo_username:     qiubaiying
+weibo_username:     若若若若若若珩
 zhihu_username:     我知道风里有诗句
 github_username:    yingruoheng
 #facebook_username:  baiying.qiu.7
@@ -99,12 +99,6 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "WY",
-        href: "http://zhengwuyang.com"
-    },{
-        title: "简书·BY",
-        href: "http://www.jianshu.com/u/e71990ada2fd"
-    },{
         title: "Apple",
         href: "https://apple.com"
     },{
