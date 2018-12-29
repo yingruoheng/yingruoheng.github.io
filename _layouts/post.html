@@ -92,13 +92,12 @@ layout: default
                 <!-- Thank DF:https://github.com/NSDingFan/NSDingFan.github.io/issues/3#issuecomment-407496538 -->
                 <script src="{{ site.baseurl }}/js/md5.min.js"></script>
                 <script type="text/javascript">
-                    var gitalk = new Gitalk({
-                    clientID: 'd8ee2dbdf33d8b4da0c5',
-                    clientSecret: '1cd1c2359b1527002c097e329256e740a27a0efe',
-                    repo: 'https://github.com/yingruoheng/yingruoheng.github.io',
-                    owner: 'yingruoheng',
-                    admin: ['window.location.pathname'],
-                    distractionFreeMode: {{true}},
+                    clientID: '{{site.gitalk.clientID}}',
+                    clientSecret: '{{site.gitalk.clientSecret}}',
+                    repo: '{{site.gitalk.repo}}',
+                    owner: '{{site.gitalk.owner}}',
+                    admin: ['{{site.gitalk.admin}}'],
+                    distractionFreeMode: {{site.gitalk.distractionFreeMode}},
                     id: md5(location.pathname),
                     });
                     gitalk.render('gitalk-container');
