@@ -4,7 +4,7 @@ title:      Hello Bolg
 subtitle:    "\"Hello World, Hello Blog\""
 date:       2018-12-29
 author:     RH
-header-img: <!--img/post-bg-hello-blog.jpg-->
+header-img: 
 catalog: true
 tags:
     - 生活
