@@ -4,13 +4,17 @@ title:      Hello Bolg
 subtitle:    "\"Hello World, Hello Blog\""
 date:       2018-12-29
 author:     RH
-header-img: img/post-bg-hello-blog.jpg
+header-img: <!--img/post-bg-hello-blog.jpg-->
 catalog: true
 tags:
     - 生活
 ---
 
 > “🙉🙉🙉 ”
+
+> 不积硅步
+
+> 无以至千里
 
 
 ## 前言
@@ -23,7 +27,8 @@ tags:
 
 搭这个博客的目的呢，主要是想有个记录自己技术成长轨迹的地方，自己搭建的东西维护起来也更有动力一点不是嘛😆。我一直认为，对技术人员来说分享交流是一件很重要的事情，可能在有些公司这种机会比较少，所以我觉得博客应该是比较好的一个方式了。
 
-技术在成长，人生当然也在成长。由于我是一个比较安静的人，属于少说多做那种，很多事情不太喜欢讲出口，那就通过写文章的方式好了，虽然文笔并不好🙈。
+技术在成长，人生在经历。我是一个比较安静的人，属于少说多做那种，很多事情不太喜欢讲出口，那就通过写文章的方式好了，虽然文笔并不好🙈。
+
 ![](https://ws4.sinaimg.cn/large/006tNbRwly1fys6njp4y6j31400u01ky.jpg)
 
 <p id = "build"></p>
