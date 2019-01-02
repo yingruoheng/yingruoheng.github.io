@@ -47,7 +47,7 @@ tags:
 ---
 
 
-博客主题我是Fork的[BY的博客主题](https://github.com/qiubaiying/qiubaiying.github.io) 的进行修改，遇到了些小坑，后面又加上了Gitalk的评论插件。
+博客主题我是Fork的[BY的博客主题](https://github.com/qiubaiying/qiubaiying.github.io) 的进行修改，遇到了些小问题，不过都解决了，后面又加上了Gitalk的评论插件。
 
 本地调试环境需要 `gem install jekyll`，结果 rubygem 的源居然被墙了，~~后来手动改成了我大淘宝的镜像源才成功~~，淘宝的源已经[停止维护](https://gems.ruby-china.org/)，换成了OSChina的源 `https://gems.ruby-china.org/`。
 
