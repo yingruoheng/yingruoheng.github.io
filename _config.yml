@@ -25,7 +25,10 @@ github_username:    yingruoheng
 #jianshu_username:   e71990ada2fd
 #twitter_username:   qiubaiying
 
-
+leancloud_visitors:
+  enable: true
+  app_id: yU7tT9A9sCjGDOUPksoefWYK-gzGzoHsz
+  app_key: tqR7yWgJUDqlLXhGJrGzgxSY
 
 
 # Build settings
