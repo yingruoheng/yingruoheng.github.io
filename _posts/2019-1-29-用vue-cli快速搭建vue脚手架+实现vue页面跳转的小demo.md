@@ -74,7 +74,7 @@ webpack 4.X 开始，需要安装 webpack-cli 依赖 ,所以使用这条命令 `
 
 在命令行输入``npm install -g vue-cli``，安装完成后输入``vue-V``，如果出现相应版本号，则安装成功
 
-#####	3.使用**vue-cli**来构建项目
+####	3.使用**vue-cli**来构建项目
 
 首先新建一个文件夹作为项目存放地，cd进入其目录，输入以下命令创建项目``vue init webpack vue-demo``，模版下载成功后会有一些交互的项需要填写
 
@@ -100,7 +100,7 @@ webpack 4.X 开始，需要安装 webpack-cli 依赖 ,所以使用这条命令 `
 打开浏览器访问 **http://localhost:8080** 就能看到欢迎页面，若页面加载不出来可能是本地8080端口被占用，需要修改一下配置文件``config``里的``index.js``的post即可
 ![](https://ws1.sinaimg.cn/large/006tNc79ly1fznrpdlgz4j30rq0myt9t.jpg)
 
-5.**vue-cli** 的 **webpack** 配置
+####	5.**vue-cli** 的 **webpack** 配置
 
 从 **package.json** 可以看到 开发 和 生产 环境的入口。
 ![](https://ws1.sinaimg.cn/large/006tNc79ly1fzns3oygfbj30y207iq35.jpg)
