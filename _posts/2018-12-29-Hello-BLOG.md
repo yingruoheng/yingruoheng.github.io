@@ -23,7 +23,7 @@ tags:
 
 搭这个博客的目的呢，主要是想有个记录自己技术成长轨迹的地方，顺便也可以分享下生活日常。自己搭建的东西维护起来也更有动力一点不是嘛😆。我一直认为，对技术人员来说分享交流是一件很重要的事情，可能在有些公司这种机会比较少，所以我觉得博客应该是比较好的一个方式了。
 
-![](https://ws4.sinaimg.cn/large/006tNbRwly1fys6njp4y6j31400u01ky.jpg)
+![](https://tva1.sinaimg.cn/large/006tNbRwgy1gahhx3bhyej31400u0n0i.jpg)
 
 <p id = "build"></p>
 ---

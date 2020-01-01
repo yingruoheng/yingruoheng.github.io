@@ -47,7 +47,7 @@ node和npm的环境是必须的，npm和node的安装不再赘述，自行解决
 从图中我们可以看出，Webpack 可以将多种静态资源 js、css、less 转换成一个静态文件，减少了页面的请求。
 
 **Vue.js 目录结构**
-![](https://ws4.sinaimg.cn/large/006tNc79ly1fzns96oihuj30bm0biq31.jpg)
+![](https://tva1.sinaimg.cn/large/006tNbRwgy1gahhpfmv4sj30bm0biaa5.jpg)
 
 **目录解析**
 
@@ -98,12 +98,12 @@ webpack 4.X 开始，需要安装 webpack-cli 依赖 ,所以使用这条命令 `
 命令行执行``npm run dev``
 
 打开浏览器访问 **http://localhost:8080** 就能看到欢迎页面，若页面加载不出来可能是本地8080端口被占用，需要修改一下配置文件``config``里的``index.js``的post即可
-![](https://ws1.sinaimg.cn/large/006tNc79ly1fznrpdlgz4j30rq0myt9t.jpg)
+![](https://tva1.sinaimg.cn/large/006tNbRwgy1gahhqg893tj30rq0my0uf.jpg)
 
 ####	5.**vue-cli** 的 **webpack** 配置
 
 从 **package.json** 可以看到 开发 和 生产 环境的入口。
-![](https://ws1.sinaimg.cn/large/006tNc79ly1fzns3oygfbj30y207iq35.jpg)
+![](https://tva1.sinaimg.cn/large/006tNbRwgy1gahhr5mavbj30y207imxp.jpg)
 
 -	**dev** 是开发环境的启动命令
 - 	**build** 是生产打包环境的命令
@@ -206,9 +206,9 @@ export default {
 在HelloWorld中点击按钮跳转到Registered，在Registered中点击按钮也可以返回到HelloWorld，实现的效果如下图:
 
 **HelloWorld** 页面
-![](https://ws2.sinaimg.cn/large/006tNc79ly1fznsssxdy8j30me0gsq2x.jpg)
+![](https://tva1.sinaimg.cn/large/006tNbRwgy1gahhs1oeilj30me0gst8s.jpg)
 **Registered** 页面
-![](https://ws3.sinaimg.cn/large/006tNc79ly1fznst9d8dpj30no0bya9z.jpg)
+![](https://tva1.sinaimg.cn/large/006tNbRwgy1gahhshmie8j30no0byq2w.jpg)
 
 ###	项目地址
 ####	[戳这里 👆](https://github.com/yingruoheng/vue-demo)
