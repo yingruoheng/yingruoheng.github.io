@@ -12,7 +12,7 @@ github_repo: "https://github.com/yingruoheng/yingruoheng.github.io.git" # you co
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "Goals determine what you going to be!"
-sidebar-avatar: https://ws2.sinaimg.cn/large/006tNbRwly1fymh1e4xz0j309y09xq3j.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: img/touxiang.jpeg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
